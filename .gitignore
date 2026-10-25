@@ -1,0 +1,42 @@
+# Unity tarafından yeniden üretilen klasörler — depoya girmez
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/GeneratedAssets/
+*_BurstDebugInformation_DoNotShip/
+
+# Editörün ürettiği proje dosyaları
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.vscode/
+.idea/
+
+# Derleme çıktıları
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# macOS
+.DS_Store
